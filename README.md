@@ -1,5 +1,5 @@
 # Final-Project
 
-Title of Group: Machine Learning Inception Algorithm Network (MLIAN)
+Title of Group: Machine Inception Learning Algorithm Network (MILAN) 
 
 Group Members: Aref, Filis, Kapil, Andrew
