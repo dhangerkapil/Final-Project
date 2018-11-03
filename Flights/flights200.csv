@@ -1,4 +1,4 @@
-﻿flightdate,airline,carrier,origin,orignum,destination,deptime,depdetla,depdelay,arrtime,arrdelta,arrdelayy,cancelled,cancelreason,distance,carrierdelay,weatherdelay,NASdelay,SecurityDelay,lateaircraftdelay
+﻿flightdate,airline,carrier,origin,orignum,destination,deptime,depdelta,depdelay,arrtime,arrdelta,arrdelayy,cancelled,cancelreason,distance,carrierdelay,weatherdelay,NASdelay,SecurityDelay,lateaircraftdelay
 4/17/14,20409,B6,ABQ,1,JFK,4,5,5,603,2,2,0,,1826,,,,,
 4/6/14,19977,UA,AGS,2,ATL,1,86,86,101,81,81,0,,143,0,54,0,0,27
 4/2/14,19977,UA,ANC,3,DEN,3,4,4,726,21,21,0,,2405,0,0,21,0,0
